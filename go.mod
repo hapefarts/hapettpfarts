@@ -1,8 +1,8 @@
-module github.com/Rid/hapettpsay
+module github.com/hapefarts/hapettpfarts
 
 go 1.17
 
-require github.com/Rid/hapesay/v2 v2.0.21
+require github.com/hapefarts/hapefarts/v2 v2.0.21
 
 require (
 	github.com/Code-Hex/go-wordwrap v1.0.0 // indirect

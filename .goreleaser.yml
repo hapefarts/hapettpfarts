@@ -50,7 +50,7 @@ brews:
     owner: Rid
     name: homebrew-tap
     token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
-  homepage: https://github.com/Rid/hapettpsay
+  homepage: https://github.com/hapefarts/hapettpfarts
   description: "Fast, funny, everyone wanted? new hapettpsay!!"
   folder: Formula
   install: |
